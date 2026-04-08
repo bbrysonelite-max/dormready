@@ -1,0 +1,345 @@
+[
+  {
+    "school_id": "ucla",
+    "school_name": "UCLA",
+    "location": "Los Angeles, CA",
+    "buildings": [
+      {
+        "building_id": "hedrick-hall",
+        "building_name": "Hedrick Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 10.5,
+            "sqft": 130.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "rieber-hall",
+        "building_name": "Rieber Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 10.5,
+            "sqft": 130.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "sproul-hall",
+        "building_name": "Sproul Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 10.5,
+            "sqft": 130.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "dykstra-hall",
+        "building_name": "Dykstra Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 10.5,
+            "sqft": 130.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "de-neve-gardenia",
+        "building_name": "De Neve Gardenia",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 11.17,
+            "width_ft": 12.5,
+            "sqft": 139.6,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "de-neve-holly",
+        "building_name": "De Neve Holly",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 11.17,
+            "width_ft": 12.5,
+            "sqft": 139.6,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "sproul-landing",
+        "building_name": "Sproul Landing",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 13.5,
+            "width_ft": 12.83,
+            "sqft": 173.3,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "sproul-cove",
+        "building_name": "Sproul Cove",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 13.5,
+            "width_ft": 12.83,
+            "sqft": 173.3,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "olympic-hall",
+        "building_name": "Olympic Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 14.17,
+            "width_ft": 12.17,
+            "sqft": 172.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "centennial-hall",
+        "building_name": "Centennial Hall",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 14.17,
+            "width_ft": 12.17,
+            "sqft": 172.4,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "saxon-suites",
+        "building_name": "Saxon Suites",
+        "type": "suite",
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "suite",
+            "length_ft": 14.42,
+            "width_ft": 11.25,
+            "sqft": 162.2,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "hitch-suites",
+        "building_name": "Hitch Suites",
+        "type": "suite",
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "suite",
+            "length_ft": 14.42,
+            "width_ft": 11.25,
+            "sqft": 162.2,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "rieber-terrace",
+        "building_name": "Rieber Terrace",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 12.83,
+            "sqft": 159.3,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing. Excludes pod/single-share rooms.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          },
+          {
+            "type": "pod",
+            "length_ft": 11.42,
+            "width_ft": 9.0,
+            "sqft": 102.8,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "Pod/single-share room. All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "rieber-vista",
+        "building_name": "Rieber Vista",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 12.83,
+            "sqft": 159.3,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing. Excludes pod/single-share rooms.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          },
+          {
+            "type": "pod",
+            "length_ft": 11.42,
+            "width_ft": 9.0,
+            "sqft": 102.8,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "Pod/single-share room. All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "hedrick-summit",
+        "building_name": "Hedrick Summit",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 12.42,
+            "width_ft": 12.83,
+            "sqft": 159.3,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing. Excludes pod/single-share rooms.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          },
+          {
+            "type": "pod",
+            "length_ft": 11.42,
+            "width_ft": 9.0,
+            "sqft": 102.8,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "Pod/single-share room. All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "de-neve-plaza",
+        "building_name": "De Neve Plaza",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 11.0,
+            "width_ft": 12.0,
+            "sqft": 132.0,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      },
+      {
+        "building_id": "sunset-village",
+        "building_name": "Sunset Village",
+        "type": null,
+        "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+        "room_types": [
+          {
+            "type": "standard",
+            "length_ft": 11.0,
+            "width_ft": 12.0,
+            "sqft": 132.0,
+            "photo_urls": [],
+            "tour_url": null,
+            "notes": "All measurements are approximates per UCLA Housing.",
+            "source_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539"
+          }
+        ]
+      }
+    ]
+  }
+]
