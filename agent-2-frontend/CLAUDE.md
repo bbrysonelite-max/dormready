@@ -29,7 +29,7 @@ Body: { email, school_id, building_id, source: 'dorm-profile' }
 - Description includes exact dimensions
 
 ## Stage 1 Checklist
-- [ ] Home page renders
+- [x] Home page renders
 - [ ] School index renders all buildings for UCLA
 - [ ] Dorm profile renders Hedrick Hall with dimensions
 - [ ] Lead capture posts to Agent 3 API
@@ -41,3 +41,12 @@ Body: { email, school_id, building_id, source: 'dorm-profile' }
 3. TypeScript strict. No any types.
 4. Static generation on all school/dorm pages.
 5. No broken windows.
+
+---
+
+## Agent Log
+
+**Agent 2 — 2026-04-08**
+Scaffolded Next.js 14 app (TypeScript strict, Tailwind, App Router). Built home page: hero + search bar + 6 school cards (UCLA, Stanford, USC, NYU, UT Austin, UMich) + stats bar. Build passes, TypeScript clean, statically prerendered.
+
+— Agent 2
