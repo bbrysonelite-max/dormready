@@ -47,3 +47,10 @@ Copy .env.local and fill in:
 3. Return consistent errors: { error: string, code: string }
 4. Idempotent upserts — seed twice = no duplicates
 5. No broken windows.
+
+---
+
+## Agent Signature
+Agent: 3 — Backend
+Last updated: 2026-04-08
+Stage 1 complete: Express + TypeScript scaffolded, Supabase schema written, GET /api/schools and POST /api/leads implemented with zod validation, rate limiting, and Resend welcome email.
