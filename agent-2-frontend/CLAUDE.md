@@ -1,0 +1,43 @@
+# CLAUDE.md — Agent 2: Frontend Agent
+Your role: Build the DormReady Next.js web app.
+You own: agent-2-frontend/ only.
+Do NOT touch: agent-1-data/ or agent-3-backend/
+
+## Stack
+- Next.js 14 (App Router)
+- Tailwind CSS
+- TypeScript strict mode
+
+## Install
+npx create-next-app@latest . --typescript --tailwind --app --src-dir
+
+## Stage 1 Pages to Build
+1. / — Home: search bar + 6 school cards + stats bar
+2. /schools/[school_id] — School index: all buildings as cards
+3. /schools/[school_id]/[building_id] — Dorm profile: dimensions + lead capture + affiliate strip
+
+## Data Loading (Stage 1 — static)
+import dormsData from '../../agent-1-data/data/dorms.json'
+
+## Lead Capture
+POST to: process.env.NEXT_PUBLIC_API_URL/api/leads
+Body: { email, school_id, building_id, source: 'dorm-profile' }
+
+## SEO — Required on Every Dorm Profile Page
+- generateStaticParams() for every building
+- Title: "[Building] Dorm Room Size — [School] | DormReady"
+- Description includes exact dimensions
+
+## Stage 1 Checklist
+- [ ] Home page renders
+- [ ] School index renders all buildings for UCLA
+- [ ] Dorm profile renders Hedrick Hall with dimensions
+- [ ] Lead capture posts to Agent 3 API
+- [ ] Lighthouse mobile score > 90
+
+## Rules
+1. Mobile first. Design at 375px.
+2. Tailwind only. No inline styles.
+3. TypeScript strict. No any types.
+4. Static generation on all school/dorm pages.
+5. No broken windows.
