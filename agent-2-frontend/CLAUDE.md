@@ -41,3 +41,24 @@ Body: { email, school_id, building_id, source: 'dorm-profile' }
 3. TypeScript strict. No any types.
 4. Static generation on all school/dorm pages.
 5. No broken windows.
+
+---
+
+## Agent Log
+
+**Agent 2 — 2026-04-08**
+Scaffolded Next.js 14 app (TypeScript strict, Tailwind, App Router). Built home page: hero + search bar + 6 school cards (UCLA, Stanford, USC, NYU, UT Austin, UMich) + stats bar. Build passes, TypeScript clean, statically prerendered.
+
+— Agent 2
+
+**Agent 2 — 2026-04-09**
+Agent: 2 — Frontend
+Last updated: 2026-04-09
+Status: Fully deployed on Vercel at dormready.vercel.app
+Pages live: home, /schools/[school_id], /schools/[school_id]/[building_id]
+Working: room type tabs, lead capture, affiliate strip, breadcrumbs
+Deploy command: vercel --prod from agent-2-frontend folder
+Key fix: dynamic routes required generateStaticParams — was 404ing on Vercel without it
+Next: room layout visualizer, search bar functionality
+
+— Agent 2
