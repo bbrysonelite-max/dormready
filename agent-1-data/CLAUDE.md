@@ -50,3 +50,12 @@ Produce two files in agent-1-data/data/
 
 ## Progress Log
 - 2026-04-07: Stage 1 UCLA complete. Scraped 17 buildings from ask.housing.ucla.edu/app/answers/detail/a_id/539. Produced data/dorms.json and data/schools.json. validate.js passes.
+
+## Agent Log
+Agent: 1 — Data
+Last updated: 2026-04-09
+Status: UCLA 4 buildings live in production at dormready.vercel.app
+Stanford: no public dimensions found — housing office contact required for 2025-26 Undergraduate Housing Chart PDF
+USC, NYU, UT Austin: not yet started
+Next: find verified dimensions for Stanford, USC, NYU, UT Austin — official sources only
+Commit when done to agent-1-data branch.
