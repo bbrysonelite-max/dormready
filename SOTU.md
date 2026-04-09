@@ -1,21 +1,42 @@
 # DormReady — State of the Union
-Last updated: 2026-04-08 | Repo: https://github.com/bbrysonelite-max/dormready
+Last updated: 2026-04-09 | Site: dormready.vercel.app | API: dormready-production.up.railway.app
 
-## Status: Stage 1 Complete — Paused Clean
-All 3 agents finished Stage 1. Everything committed and pushed.
+## Status: FULLY FUNCTIONAL PRODUCT
+Every revenue stream is live on the dorm profile page.
 
-## What Was Built
-- Agent 1: 17 UCLA buildings scraped → dorms.json + schools.json ✅
-- Agent 2: Next.js 14 + Tailwind + TypeScript, home page built ✅  
-- Agent 3: Express API, GET /api/schools, POST /api/leads, Resend email ✅
+## What Is Working
+- Home page, school index, dorm profile pages — all live on Vercel
+- Room type tabs, lead capture, affiliate strip — all working
+- Backend API on Railway — GET /api/schools, POST /api/leads
+- Supabase DB — schema live, UCLA seeded
+- Lead capture fires Resend welcome email on submit
 
-## ⚠️ First Thing Next Session
-Paste agent-3-backend/supabase/schema.sql into Supabase SQL Editor and run it.
-Then seed the DB from dorms.json.
+## Terminal Colors
+- Black = Agent 1 Data — agent-1-data
+- Dark Blue = Agent 2 Frontend — agent-2-frontend
+- Green = Agent 3 Backend — agent-3-backend
 
-## Stage 2 Prompts Ready
-See full SOTU in the repo for exact prompts to paste into each terminal.
+## Infrastructure
+- Frontend: https://dormready.vercel.app
+- Backend: https://dormready-production.up.railway.app
+- Vercel: https://vercel.com/bbrysonelite-maxs-projects/dormready
+- Railway: https://railway.com/project/81548116-c5ca-4a9d-942c-e2ff567b105f
+- Supabase: https://supabase.com/dashboard/project/ubrawsxcpqtnnquftqqk
 
-## To Resume in New Claude Chat
-Say: "I am working on DormReady at github.com/bbrysonelite-max/dormready. 
-Read SOTU.md. Stage 1 is complete. Continue Stage 2."
+## Not Done Yet
+- dormready.io domain (namecheap.com)
+- Amazon Associates (affiliate-program.amazon.com)
+- Stanford, USC, NYU, UT Austin dimensions
+- Room layout visualizer
+- PDF layout email delivery
+- Search bar functionality
+
+## Next Session Priorities
+1. Buy dormready.io and connect to Vercel
+2. Submit Amazon Associates
+3. Real dimensions for Stanford, USC, NYU, UT Austin
+4. Room layout visualizer (Agent 2 Stage 2)
+5. PDF layout delivery (Agent 3 Stage 2)
+
+## Resume Prompt
+Working on DormReady. Repo: github.com/bbrysonelite-max/dormready. Frontend: dormready.vercel.app. Backend: dormready-production.up.railway.app. Read START_HERE.md. Stage 1 complete. Continue Stage 2.
