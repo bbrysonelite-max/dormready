@@ -47,3 +47,6 @@ Produce two files in agent-1-data/data/
 3. Never commit raw HTML. Parse immediately.
 4. Run validate.js before every commit.
 5. No broken windows.
+
+## Progress Log
+- 2026-04-07: Stage 1 UCLA complete. Scraped 17 buildings from ask.housing.ucla.edu/app/answers/detail/a_id/539. Produced data/dorms.json and data/schools.json. validate.js passes.

@@ -1,0 +1,9 @@
+[
+  {
+    "school_id": "ucla",
+    "school_name": "UCLA",
+    "location": "Los Angeles, CA",
+    "housing_url": "https://ask.housing.ucla.edu/app/answers/detail/a_id/539",
+    "scraped_at": "2026-04-07"
+  }
+]
