@@ -54,3 +54,14 @@ Copy .env.local and fill in:
 Agent: 3 — Backend
 Last updated: 2026-04-08
 Stage 1 complete: Express + TypeScript scaffolded, Supabase schema written, GET /api/schools and POST /api/leads implemented with zod validation, rate limiting, and Resend welcome email.
+
+---
+
+## Agent Log
+Agent: 3 — Backend
+Last updated: 2026-04-09
+Status: Fully deployed on Railway at dormready-production.up.railway.app
+Working: GET /api/schools, POST /api/leads, Supabase DB, Resend email
+Railway root directory: /agent-3-backend
+All 8 env vars set in Railway dashboard
+Next: POST /api/layouts, GET /api/affiliate/click, POST /api/layouts/:id/send
