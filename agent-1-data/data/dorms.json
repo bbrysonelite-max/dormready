@@ -1,0 +1,213 @@
+[
+  {
+    "school_id": "ucla",
+    "school_name": "UCLA",
+    "location": "Los Angeles, CA",
+    "buildings": [
+      {
+        "building_id": "hedrick-hall",
+        "building_name": "Hedrick Hall",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 12.42,
+            "width_ft": 10.5,
+            "sqft": 130,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Community bathroom, no AC"
+          }
+        ]
+      },
+      {
+        "building_id": "sproul-hall",
+        "building_name": "Sproul Hall",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 11.5,
+            "width_ft": 10.0,
+            "sqft": 115,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Community bathroom, air conditioned"
+          }
+        ]
+      },
+      {
+        "building_id": "rieber-hall",
+        "building_name": "Rieber Hall",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 12.0,
+            "width_ft": 10.25,
+            "sqft": 123,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Community bathroom, no AC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_id": "stanford",
+    "school_name": "Stanford",
+    "location": "Stanford, CA",
+    "buildings": [
+      {
+        "building_id": "FloMo",
+        "building_name": "Florence Moore Hall",
+        "type": "suite",
+        "room_types": [
+          {
+            "type": "single",
+            "length_ft": 12.0,
+            "width_ft": 11.0,
+            "sqft": 132,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Suite-style, shared bathroom per suite"
+          }
+        ]
+      },
+      {
+        "building_id": "branner-hall",
+        "building_name": "Branner Hall",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 14.0,
+            "width_ft": 11.5,
+            "sqft": 161,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Community bathroom, AC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_id": "usc",
+    "school_name": "USC",
+    "location": "Los Angeles, CA",
+    "buildings": [
+      {
+        "building_id": "new-north",
+        "building_name": "New North",
+        "type": "suite",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 13.0,
+            "width_ft": 11.0,
+            "sqft": 143,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Suite-style, private bathroom per suite"
+          }
+        ]
+      },
+      {
+        "building_id": "pardee-tower",
+        "building_name": "Pardee Tower",
+        "type": "suite",
+        "room_types": [
+          {
+            "type": "single",
+            "length_ft": 12.5,
+            "width_ft": 10.0,
+            "sqft": 125,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "High-rise tower, suite bath"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_id": "nyu",
+    "school_name": "NYU",
+    "location": "New York, NY",
+    "buildings": [
+      {
+        "building_id": "third-north",
+        "building_name": "Third North",
+        "type": "suite",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 11.0,
+            "width_ft": 9.5,
+            "sqft": 105,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Suite-style, kitchen included"
+          }
+        ]
+      },
+      {
+        "building_id": "carlyle-court",
+        "building_name": "Carlyle Court",
+        "type": "apartment",
+        "room_types": [
+          {
+            "type": "single",
+            "length_ft": 10.0,
+            "width_ft": 9.0,
+            "sqft": 90,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Apartment-style, full kitchen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_id": "ut-austin",
+    "school_name": "UT Austin",
+    "location": "Austin, TX",
+    "buildings": [
+      {
+        "building_id": "jester-west",
+        "building_name": "Jester West",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 15.25,
+            "width_ft": 10.5,
+            "sqft": 160,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Largest dorm in US, community bathroom, AC"
+          }
+        ]
+      },
+      {
+        "building_id": "kinsolving",
+        "building_name": "Kinsolving",
+        "type": "classic",
+        "room_types": [
+          {
+            "type": "double",
+            "length_ft": 13.5,
+            "width_ft": 10.0,
+            "sqft": 135,
+            "photo_urls": [],
+            "tour_url": "",
+            "notes": "Women's hall, community bathroom, AC"
+          }
+        ]
+      }
+    ]
+  }
+]
